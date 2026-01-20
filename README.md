@@ -3,7 +3,7 @@
 🔐 Cybersecurity Enthusiast | Python | Ethical Hacking (Beginner)
 
 🌐 Live Portfolio Website:
-https://sruthika.lovable.app
+https://sruthika-portfolio.lovable.app
 
 ## 🛠 Skills
 - Cybersecurity fundamentals
